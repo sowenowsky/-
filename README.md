@@ -8,5 +8,5 @@
 Программа написана в PyCharm Community Edition 2022. Можно открыть в любой среде разработки Python
 
 ##Скриншоты
-![]
+https://yapx.ru/v/T7PJy
 
