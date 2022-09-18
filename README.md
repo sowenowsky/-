@@ -8,6 +8,6 @@
 
 Программа написана в PyCharm Community Edition 2022. Можно открыть в любой среде разработки Python
 
-##Скриншоты
-Ссылка на все скриншоты - https://yapx.ru/v/T7PJy
+## Скриншоты
+https://yapx.ru/v/T7PJy
 
